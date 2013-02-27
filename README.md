@@ -12,8 +12,8 @@ http://dailycost.com
 | **Czech**                         | **cs**    |            |              |                                     |
 | **Danish**                        | **da**    |            |              |                                     |
 | **Dutch (Standard)**              | **nl**    |            |              |                                     |
-| **English (United States)**       | **en-us** |            | v1.0         |                                     |
-| **Chinese Simplified (PRC)**      | **zh-cn** |            | v1.1.0       |                                     |
+| **English (United States)**       | **en-us** |            | v1.0         | Guopeng Liang                       |
+| **Chinese Simplified (PRC)**      | **zh-cn** |            | v1.1.0       | Guopeng Liang                       |
 | **Chinese Traditional (Taiwan)**  | **zh-tw** |            | v1.4.0       | Ken                                 |
 | **French**                        | **fr**    |            |              |                                     |
 | **German**                        | **de**    |            | **v1.NEXT**  |                                     |
@@ -23,7 +23,7 @@ http://dailycost.com
 | **Polish**                        | **pl**    |            |              |                                     |
 | **Portuguese**                    | **pt**    |            |              |                                     |
 | **Portuguese (Brazil)**           | **pt-br** |            |              |                                     |
-| **Russian**                       | **ru**    |            | **v1.NEXT**  |                                     |
+| **Russian**                       | **ru**    |            | **v1.NEXT**  | Vladimir Lybensky                   |
 | **Spanish**                       | **es**    |            |              |                                     |
 | **Swedish**                       | **sv**    |            |              |                                     |
 | **Turkish**                       | **tr**    |            |              |                                     |
