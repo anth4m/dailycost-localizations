@@ -1,12 +1,15 @@
 /*
  * DailyCost Localization
- * Greek Localization by Efthymis Takos | Ελληνική Μετάφραση Ευθύμης Τάκος
+ * ----------------------
+ * Greek
+ * by Efthymis Takos | Ελληνική Μετάφραση Ευθύμης Τάκος
+ *
  */
 
 (function(app, undefined) {
   "use strict";
 
-	app.addLanguage("el-gr", {
+	app.addLanguage("el", {
 
 		preference: {
 			"currency": "EUR".split("_")
@@ -15,7 +18,7 @@
 		string: {
 			"weekdays": "Κυριακή_Δευτέρα_Τρίτη_Τετάρτη_Πέμπτη_Παρασκευή_Σάββατο".split("_"),
 			"weekdaysShort": "Κυρ_Δευ_Τρί_Τετ_Πέμ_Παρ_Σάβ".split("_"),
-			"pullText": "Νέο ...|Νέο Έ...|Νέο Έξ...|Νέο Έξο...|Νέο Έξοδ...|Νέο Έξοδο!".split("|"),
+			"pullText": "Νέο ...|Νέο Έ...|Νέο Έξ...|Νέο Έξο...|Νέο Έξοδ...|Νέο Έξοδο...|Νέο Έξοδο!".split("|"),
 			"formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
 
 			"settings": "Ρυθμίσεις",
@@ -32,7 +35,7 @@
 			"about": "Πληροφορίες",
 			"tipsAndTricks": "Συμβουλές & Κόλπα",
 			"preview": "Προεπισκόπιση",
-			"done": "Έτοιμο",
+			"done": "Tέλος",
 			"submit": "Υποβολή",
 			"restore": "Επαναφορά",
 			"default": "Αρχικό",
