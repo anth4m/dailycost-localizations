@@ -1,9 +1,11 @@
 /*
  * DailyCost Localization
+ * ----------------------
+ * Japanese
  *
  */
 
-(function(app, undefined) {
+(function(app) {
 	"use strict";
 
 	app.addLanguage("ja", {

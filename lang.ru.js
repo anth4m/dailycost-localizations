@@ -1,9 +1,11 @@
 /*
  * DailyCost Localization
+ * ----------------------
+ * Russian
  *
  */
 
-(function(app, undefined) {
+(function(app) {
 	"use strict";
 
 	app.addLanguage("ru", {
@@ -41,7 +43,7 @@
 
 			"data": "Данные",
 			"dataExportCSV": "Экспорт CSV по Email",
-			"dataExportEmailSubject": "DailyCost резервная копия",
+			"dataExportEmailSubject": "Резервная копия DailyCost",
 			"dataExportEmailBody": "Keep it simple and elegant.",
 
 			"date": "Дата",

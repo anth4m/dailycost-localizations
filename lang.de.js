@@ -1,9 +1,11 @@
 /*
  * DailyCost Localization
+ * ----------------------
+ * German
  *
  */
 
-(function(app, undefined) {
+(function(app) {
 	"use strict";
 
 	app.addLanguage("de", {

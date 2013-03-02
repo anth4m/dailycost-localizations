@@ -1,9 +1,11 @@
 /*
  * DailyCost Localization
+ * ----------------------
+ * Chinese Simplified (PRC)
  *
  */
 
-(function(app, undefined) {
+(function(app) {
 	"use strict";
 
 	app.addLanguage("zh-cn", {

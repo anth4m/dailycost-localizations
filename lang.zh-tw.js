@@ -1,9 +1,11 @@
 /*
  * DailyCost Localization
+ * ----------------------
+ * Chinese Traditional (Taiwan)
  *
  */
 
-(function(app, undefined) {
+(function(app) {
 	"use strict";
 
 	app.addLanguage("zh-tw", {

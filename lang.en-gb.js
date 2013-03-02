@@ -1,9 +1,11 @@
 /*
  * DailyCost Localization
+ * ----------------------
+ * English (United Kingdom)
  *
  */
 
-(function(app, undefined) {
+(function(app) {
 	"use strict";
 
 	app.addLanguage("en-gb", {
