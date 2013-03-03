@@ -19,8 +19,8 @@
 			"weekdaysShort": "日曜_月曜_火曜_水曜_木曜_金曜_土曜".split("_"),
 			"pullText": "新規...|新規支...|新規支出...|新規支出を...|新規支出を記...|新規支出を記録...|新規支出を記録!".split("|"),
 			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
-			"formatMetaDate": 'MM/[<strong>]DD[</strong>]',
-			"formatSameMonthWeekScope1": 'MM/[<strong>]DD[</strong>]',
+			"formatMetaDate": '[<strong>]MM/DD[</strong>]',
+			"formatSameMonthWeekScope1": '[<strong>]MM/DD[</strong>]',
 			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]',
 
 			"settings": "設定",
@@ -49,13 +49,18 @@
 			"dataExportEmailBody": "Keep it simple and elegant.",
 
 			"date": "日付",
-			"sum": "額",
+			"sum": "総計",
 			"category": "種類",
+
+			"entry": "記録",
+			"cost": "支出",
+			"earn": "収入",
+			"balance": "総計",
 
 			"favoriteCurrencies": "一般の貨幣",
 			"allCurrencies": "全部の貨幣",
 
-			"emptyCatlist": "ウープス ここには支出もありません",
+			"emptyCatlist": "ウープス ここには記録もありません",
 
 			"feedbackEmailSubject": "DailyCost饋還",
 

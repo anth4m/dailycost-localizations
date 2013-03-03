@@ -52,10 +52,15 @@
 			"sum": "Sum",
 			"category": "Category",
 
+			"entry": "Giriş",
+			"cost": "Masraf",
+			"earn": "Kazanmak",
+			"balance": "Toplam",
+
 			"favoriteCurrencies": "My currencies",
 			"allCurrencies": "All currencies",
 
-			"emptyCatlist": "Ooops, there is no cost here yet",
+			"emptyCatlist": "Ooops, there is nothing here yet",
 
 			"feedbackEmailSubject": "DailyCost Feedback",
 

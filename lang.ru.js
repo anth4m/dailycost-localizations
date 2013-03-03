@@ -53,10 +53,15 @@
 			"sum": "Сумма",
 			"category": "Категория",
 
+			"entry": "Запись",
+			"cost": "Расход",
+			"earn": "Доход",
+			"balance": "Итог",
+
 			"favoriteCurrencies": "Мои валюты",
 			"allCurrencies": "Все валюты",
 
-			"emptyCatlist": "Ой, здесь еще нет расходов",
+			"emptyCatlist": "Ой, здесь еще нет здесь",
 
 			"feedbackEmailSubject": "Оставить отзыв",
 

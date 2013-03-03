@@ -52,10 +52,15 @@
 			"sum": "Sum",
 			"category": "Category",
 
+			"entry": "Entry",
+			"cost": "Cost",
+			"earn": "Earn",
+			"balance": "Balance",
+
 			"favoriteCurrencies": "My currencies",
 			"allCurrencies": "All currencies",
 
-			"emptyCatlist": "Ooops, there is no cost here yet",
+			"emptyCatlist": "Ooops, there is nothing here yet",
 
 			"feedbackEmailSubject": "DailyCost Feedback",
 

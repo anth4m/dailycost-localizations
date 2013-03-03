@@ -52,10 +52,15 @@
 			"sum": "Summe",
 			"category": "Kategorie",
 
+			"entry": "Eintrag",
+			"cost": "Kosten",
+			"earn": "Verdienen",
+			"balance": "Summe",
+
 			"favoriteCurrencies": "Meiner Währungen",
 			"allCurrencies": "Alle Währungen",
 
-			"emptyCatlist": "Hier sind noch keine kosten eingetragen",
+			"emptyCatlist": "Hier sind noch keine eintrag",
 
 			"feedbackEmailSubject": "DailyCost Feedback",
 

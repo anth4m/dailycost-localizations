@@ -19,8 +19,8 @@
 			"weekdaysShort": "周日_周一_周二_周三_周四_周五_周六".split("_"),
 			"pullText": "新增...|新增一...|新增一條...|新增一條開...|新增一條開銷...|新增一條開銷!".split("|"),
 			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
-			"formatMetaDate": 'MM.[<strong>]DD[</strong>]',
-			"formatSameMonthWeekScope1": 'MM.[<strong>]DD[</strong>]',
+			"formatMetaDate": '[<strong>]MM.DD[</strong>]',
+			"formatSameMonthWeekScope1": '[<strong>]MM.DD[</strong>]',
 			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]',
 
 			"settings": "設定",
@@ -52,10 +52,15 @@
 			"sum": "金額",
 			"category": "類別",
 
+			"entry": "記錄",
+			"cost": "開銷",
+			"earn": "收入",
+			"balance": "總額",
+
 			"favoriteCurrencies": "常用貨幣",
 			"allCurrencies": "全部貨幣",
 
-			"emptyCatlist": "喔，這裡還沒有任何開銷喔",
+			"emptyCatlist": "喔，這裡還沒有任何記錄喔",
 
 			"feedbackEmailSubject": "DailyCost反饋",
 

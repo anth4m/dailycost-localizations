@@ -19,8 +19,8 @@
 			"weekdaysShort": "周日_周一_周二_周三_周四_周五_周六".split("_"),
 			"pullText": "新增...|新增一...|新增一条...|新增一条开...|新增一条开销...|新增一条开销!".split("|"),
 			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
-			"formatMetaDate": 'MM.[<strong>]DD[</strong>]',
-			"formatSameMonthWeekScope1": 'MM.[<strong>]DD[</strong>]',
+			"formatMetaDate": '[<strong>]MM.DD[</strong>]',
+			"formatSameMonthWeekScope1": '[<strong>]MM.DD[</strong>]',
 			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]',
 
 			"settings": "设置",
@@ -52,10 +52,15 @@
 			"sum": "金额",
 			"category": "类别",
 
+			"entry": "记录",
+			"cost": "开销",
+			"earn": "收入",
+			"balance": "总额",
+
 			"favoriteCurrencies": "常用货币",
 			"allCurrencies": "全部货币",
 
-			"emptyCatlist": "亲，这儿还没有开销哦",
+			"emptyCatlist": "亲，这儿还没有任何记录哦",
 
 			"feedbackEmailSubject": "DailyCost反馈",
 
