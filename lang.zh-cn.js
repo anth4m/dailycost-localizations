@@ -18,7 +18,10 @@
 			"weekdays": "周日_周一_周二_周三_周四_周五_周六".split("_"),
 			"weekdaysShort": "周日_周一_周二_周三_周四_周五_周六".split("_"),
 			"pullText": "新增...|新增一...|新增一条...|新增一条开...|新增一条开销...|新增一条开销!".split("|"),
-			"formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			"formatMetaDate": 'MM.[<strong>]DD[</strong>]',
+			"formatSameMonthWeekScope1": 'MM.[<strong>]DD[</strong>]',
+			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]',
 
 			"settings": "设置",
 			"preferences": "使用偏好",

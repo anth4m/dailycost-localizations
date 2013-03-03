@@ -18,7 +18,10 @@
 			"weekdays": "Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday".split("_"),
 			"weekdaysShort": "Sun_Mon_Tue_Wed_Thu_Fri_Sat".split("_"),
 			"pullText": "New ...|New c...|New co...|New cos...|New cost...|New cost!".split("|"),
-			"formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
+			"formatSameMonthWeekScope1": '[<strong>]DD[</strong>]',
+			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]/MM',
 
 			"settings": "Settings",
 			"preferences": "Preferences",

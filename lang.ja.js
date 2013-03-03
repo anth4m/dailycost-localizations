@@ -18,7 +18,10 @@
 			"weekdays": "日曜日_月曜日_火曜日_水曜日_木曜日_金曜日_土曜日".split("_"),
 			"weekdaysShort": "日曜_月曜_火曜_水曜_木曜_金曜_土曜".split("_"),
 			"pullText": "新規...|新規支...|新規支出...|新規支出を...|新規支出を記...|新規支出を記録...|新規支出を記録!".split("|"),
-			"formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			"formatMetaDate": 'MM/[<strong>]DD[</strong>]',
+			"formatSameMonthWeekScope1": 'MM/[<strong>]DD[</strong>]',
+			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]',
 
 			"settings": "設定",
 			"preferences": "嗜好",

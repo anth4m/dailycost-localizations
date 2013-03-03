@@ -19,7 +19,10 @@
 			"weekdays": "Κυριακή_Δευτέρα_Τρίτη_Τετάρτη_Πέμπτη_Παρασκευή_Σάββατο".split("_"),
 			"weekdaysShort": "Κυρ_Δευ_Τρί_Τετ_Πέμ_Παρ_Σάβ".split("_"),
 			"pullText": "Νέο ...|Νέο Έ...|Νέο Έξ...|Νέο Έξο...|Νέο Έξοδ...|Νέο Έξοδο...|Νέο Έξοδο!".split("|"),
-			"formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
+			"formatSameMonthWeekScope1": '[<strong>]DD[</strong>]',
+			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]/MM',
 
 			"settings": "Ρυθμίσεις",
 			"preferences": "Προτιμήσεις",

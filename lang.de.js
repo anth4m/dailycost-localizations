@@ -18,7 +18,10 @@
 			"weekdays": "Montag_Dienstag_Mittwoch_Donnerstag_Freitag_Samstag_Sonntag".split("_"),
 			"weekdaysShort": "Mo_Di_Mi_Do_Fr_Sa_So".split("_"),
 			"pullText": "Neue ..._Neue k..._Neue ko..._Neue kos..._Neue kost..._Neue koste..._Neue kosten..._Neue kosten!".split("_"),
-			"formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			"formatMetaDate": '[<strong>]DD[</strong>].MM',
+			"formatSameMonthWeekScope1": '[<strong>]DD[</strong>]',
+			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>].MM',
 
 			"settings": "Einstellungen",
 			"preferences": "Voreinstellungen",

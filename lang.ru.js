@@ -19,7 +19,10 @@
 			"weekdaysShort": "Вск_Пнд_Втр_Срд_Чтв_Птн_Сбт".split("_"),
 			// "weekdaysMin": "Вс_Пн_Вт_Ср_Чт_Пт_Сб".split("_"),
 			"pullText": "Новый ...|Новый р...|Новый ра...|Новый рас...|Новый расх...|Новый расхо...|Новый расход...|Новый расход!".split("|"),
-			"formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+			"formatMetaDate": '[<strong>]DD[</strong>].MM',
+			"formatSameMonthWeekScope1": '[<strong>]DD[</strong>]',
+			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>].MM',
 
 			"settings": "Настройки",
 			"preferences": "Установки",
