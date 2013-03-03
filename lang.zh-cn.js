@@ -22,6 +22,21 @@
 			"formatMetaDate": '[<strong>]MM.DD[</strong>]',
 			"formatSameMonthWeekScope1": '[<strong>]MM.DD[</strong>]',
 			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]',
+/*
+			"formatMetaDate": '[<strong>]M[</strong>月][<strong>]DD[</strong>日]',
+			"formatSameMonthWeekScope1": '[<strong>]M[</strong>月][<strong>]DD[</strong>日]',
+			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>日]',
+*/
+/*
+			"formatMetaDate": 'M[月]DD[日]',
+			"formatSameMonthWeekScope1": 'M[月]DD[日]',
+			"formatSameMonthWeekScope2": 'DD[日]',
+*/
+/*
+			"formatMetaDate": '[<strong>]M[月]DD[日</strong>]',
+			"formatSameMonthWeekScope1": '[<strong>]M[月]DD[日</strong>]',
+			"formatSameMonthWeekScope2": '[<strong>]DD[日</strong>]',
+*/
 
 			"settings": "设置",
 			"preferences": "使用偏好",
