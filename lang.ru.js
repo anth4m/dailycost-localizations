@@ -56,12 +56,12 @@
 			"entry": "Запись",
 			"cost": "Расход",
 			"earn": "Доход",
-			"balance": "Итог",
+			"balance": "Баланс",
 
 			"favoriteCurrencies": "Мои валюты",
 			"allCurrencies": "Все валюты",
 
-			"emptyCatlist": "Ой, здесь еще нет здесь",
+			"emptyCatlist": "Ой, здесь ничего еще нет!",
 
 			"feedbackEmailSubject": "Оставить отзыв",
 
@@ -150,7 +150,7 @@
 			"EGP": "Египетский фунт",
 				"ERN": "Eritrean Nakfa",
 				"ETB": "Ethiopian Birr",
-			"EUR": "евро",
+			"EUR": "Евро",
 				"FJD": "Fijian Dollar",
 				"FKP": "Falkland Island Pound",
 			"GBP": "Британский фунт",
