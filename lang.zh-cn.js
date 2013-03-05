@@ -92,7 +92,7 @@
 		},
 
 		category: {
-			"default":        "一般消费",
+			"default":        "一般",
 			"food":           "餐饮",
 			"food-breakfast": "早餐",
 			"food-lunch":     "午餐",
