@@ -126,7 +126,7 @@
 				"BMD": "Bermudian Dollar",
 				"BND": "Bruneian Dollar",
 				"BOB": "Bolivian Boliviano",
-			"BRL": "бразильских реалов",
+			"BRL": "Бразильский реал",
 				"BSD": "Bahamian Dollar",
 				"BTN": "Bhutanese Ngultrum",
 				"BWP": "Botswana Pula",
