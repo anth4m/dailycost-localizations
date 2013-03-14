@@ -43,6 +43,8 @@ http://dailycost.com
 | **Swiss Franc**                   | **CHF**   |            | v1.5.4         |
 | **Chilean Peso**                  | **CLP**   |            | v1.5.4         |
 | **Chinese Yuan Renminbi**         | **CNY**   |            | v1.5.4         |
+| **Colombian Peso**                | **COP**   |            | **1.NEXT**     |
+| **Costa Rican Colon**             | **CRC**   |            | **1.NEXT**     |
 | **Czech Koruna**                  | **CZK**   |            | v1.5.4         |
 | **Danish Krone**                  | **DKK**   |            | v1.5.4         |
 | **Egyptian Pound**                | **EGP**   |            | v1.5.4         |
@@ -64,6 +66,7 @@ http://dailycost.com
 | **New Zealand Dollar**            | **NZD**   |            | v1.5.4         |
 | **Philippine Peso**               | **PHP**   |            | v1.5.4         |
 | **Polish Zloty**                  | **PLN**   |            | v1.5.4         |
+| **Romanian New Leu**              | **RON**   |            | **1.NEXT**     |
 | **Russian Ruble**                 | **RUB**   |            | v1.5.4         |
 | **Saudi Arabian Riyal**           | **SAR**   |            | v1.5.4         |
 | **Swedish Krona**                 | **SEK**   |            | v1.5.4         |
@@ -73,6 +76,7 @@ http://dailycost.com
 | **Taiwan New Dollar**             | **TWD**   |            | v1.5.4         |
 | **Ukrainian Hryvna**              | **UAH**   |            | v1.5.4         |
 | **US Dollar**                     | **USD**   |            | v1.5.4         |
+| **Uruguayan Peso**                | **UYU**   |            | **1.NEXT**     |
 | **Vietnamese Dong**               | **VND**   |            | v1.5.4         |
 | **South African Rand**            | **ZAR**   |            | v1.5.4         |
 |                                   | **Code**  | **Symbol** | **Since**      |
