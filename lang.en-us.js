@@ -20,8 +20,10 @@
 			"pullText": "New ...|New c...|New co...|New cos...|New cost...|New cost!".split("|"),
 			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
 			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
-			"formatSameMonthWeekScope1": '[<strong>]DD[</strong>]',
-			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]/MM',
+			"formatWeekScope1": '[<strong>]DD[</strong>]',
+			"formatWeekScope2": '[<strong>]DD[</strong>]/MM',
+			"formatMonthScope": '[<strong>]MM[</strong>]/YYYY',
+			"formatYearScope": '[<strong>]YYYY[</strong>]',
 
 			"settings": "Settings",
 			"preferences": "Preferences",
@@ -274,30 +276,7 @@
 			"ZAR": "South African Rand",
 				"ZMW": "Zambian Kwacha",
 				"ZWD": "Zimbabwean Dollar"
-		},
-
-		tips: [
-			{
-				title: 'How to delete an item?',
-				content: ''
-			},
-			{
-				title: 'How do I track incomes?',
-				content: ''
-			},
-			{
-				title: 'How to view the beautiful charts?',
-				content: ''
-			},
-			{
-				title: 'Story behind DailyCost?',
-				content: ''
-			}
-		],
-
-		quotes: [
-			'The future is full of secrets<br />The past can never keep'
-		]
+		}
 	});
 
 }(DAILYCOST || {}));

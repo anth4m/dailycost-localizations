@@ -20,8 +20,10 @@
 			"pullText": "新增...|新增一...|新增一條...|新增一條開...|新增一條開銷...|新增一條開銷!".split("|"),
 			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
 			"formatMetaDate": '[<strong>]MM.DD[</strong>]',
-			"formatSameMonthWeekScope1": '[<strong>]MM.DD[</strong>]',
-			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]',
+			"formatWeekScope1": '[<strong>]MM.DD[</strong>]',
+			"formatWeekScope2": '[<strong>]DD[</strong>]',
+			"formatMonthScope": '[<strong>]YYYY.MM[</strong>]',
+			"formatYearScope": '[<strong>]YYYY[</strong>]',
 
 			"settings": "設定",
 			"preferences": "使用偏好",

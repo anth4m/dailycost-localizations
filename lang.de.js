@@ -20,8 +20,10 @@
 			"pullText": "Neue ..._Neue k..._Neue ko..._Neue kos..._Neue kost..._Neue koste..._Neue kosten..._Neue kosten!".split("_"),
 			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
 			"formatMetaDate": '[<strong>]DD[</strong>].MM',
-			"formatSameMonthWeekScope1": '[<strong>]DD[</strong>]',
-			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>].MM',
+			"formatWeekScope1": '[<strong>]DD[</strong>]',
+			"formatWeekScope2": '[<strong>]DD[</strong>].MM',
+			"formatMonthScope": '[<strong>]MM[</strong>].YYYY',
+			"formatYearScope": '[<strong>]YYYY[</strong>]',
 
 			"settings": "Einstellungen",
 			"preferences": "Voreinstellungen",

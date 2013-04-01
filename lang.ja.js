@@ -20,8 +20,10 @@
 			"pullText": "新規...|新規支...|新規支出...|新規支出を...|新規支出を記...|新規支出を記録...|新規支出を記録!".split("|"),
 			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
 			"formatMetaDate": '[<strong>]MM/DD[</strong>]',
-			"formatSameMonthWeekScope1": '[<strong>]MM/DD[</strong>]',
-			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]',
+			"formatWeekScope1": '[<strong>]MM/DD[</strong>]',
+			"formatWeekScope2": '[<strong>]DD[</strong>]',
+			"formatMonthScope": '[<strong>]YYYY/MM[</strong>]',
+			"formatYearScope": '[<strong>]YYYY[</strong>]',
 
 			"settings": "設定",
 			"preferences": "嗜好",
