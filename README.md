@@ -7,29 +7,33 @@ http://dailycost.com
 
 
 ## Localizations
-|                                   | Code      | Preference     | String     | Category     | Currency     | Since        | Contributors                        |
-|:----------------------------------|:----------|:--------------:|:----------:|:------------:|:------------:|:-------------|:------------------------------------|
-| **Czech**                         | **cs**    |                |            |              |              |              |                                     |
-| **Danish**                        | **da**    |                |            |              |              |              |                                     |
-| **Dutch (Standard)**              | **nl**    |                |            |              |              |              |                                     |
-| **English (United States)**       | **en-us** | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.0         | Guopeng Liang                       |
-| **English (United Kingdom)**      | **en-gb** |                |            |              |              |              |                                     |
-| **Chinese Simplified (PRC)**      | **zh-cn** | &#10004;       | &#10004;   | &#10004;     |              | v1.1.0       | Guopeng Liang                       |
-| **Chinese Traditional (Taiwan)**  | **zh-tw** | &#10004;       | &#10004;   | &#10004;     |              | v1.4.0       | Ken                                 |
-| **French**                        | **fr**    |                |            |              |              |              |                                     |
-| **German**                        | **de**    | &#10004;       | &#10004;   | &#10004;     |              | v1.5.4       | Christian Heeren                    |
-| **Greek**                         | **el**    | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       | Efthymis Takos                      |
-| **Italian**                       | **it**    |                |            |              |              |              |                                     |
-| **Japanese**                      | **ja**    | &#10004;       | &#10004;   | &#10004;     |              | v1.4.0       |                                     |
-| **Korean**                        | **ko**    |                |            |              |              |              |                                     |
-| **Polish**                        | **pl**    |                |            |              |              |              |                                     |
-| **Portuguese**                    | **pt**    |                |            |              |              |              |                                     |
-| **Portuguese (Brazil)**           | **pt-br** |                |            |              |              |              |                                     |
-| **Russian**                       | **ru**    | &#10004;       | &#10004;   | &#10004;     |              | v1.5.4       | Vladimir Lybensky                   |
-| **Spanish**                       | **es**    |                |            |              |              |              |                                     |
-| **Swedish**                       | **sv**    |                |            |              |              |              |                                     |
-| **Turkish**                       | **tr**    |                |            | &#10004;     |              |              |                                     |
-|                                   | **Code**  | **Preference** | **String** | **Category** | **Currency** | **Since**    | **Contributors**                    |
+|                                   | Code      | Metadata     | Preference     | String     | Category     | Currency     | Since        | Contributors                        |
+|:----------------------------------|:----------|:------------:|:--------------:|:----------:|:------------:|:------------:|:-------------|:------------------------------------|
+| **Arabic (Standard)**             | **ar**    |              |                |            |              |              |              |                                     |
+| **Czech**                         | **cs**    |              |                |            |              |              |              |                                     |
+| **Danish**                        | **da**    |              |                |            |              |              |              |                                     |
+| **Dutch (Standard)**              | **nl**    |              |                |            |              |              |              |                                     |
+| **English (United States)**       | **en-us** | &#10004;     | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.0         | Guopeng Liang                       |
+| **English (United Kingdom)**      | **en-gb** | &#10004;     |                |            |              |              |              |                                     |
+| **Chinese Simplified (PRC)**      | **zh-cn** | &#10004;     | &#10004;       | &#10004;   | &#10004;     |              | v1.1.0       | Guopeng Liang                       |
+| **Chinese Traditional (Taiwan)**  | **zh-tw** |              | &#10004;       | &#10004;   | &#10004;     |              | v1.4.0       | Ken                                 |
+| **French**                        | **fr**    |              |                |            |              |              |              |                                     |
+| **German**                        | **de**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.5.4       | Christian Heeren                    |
+| **Greek**                         | **el**    |              | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       | Efthymis Takos                      |
+| **Indonesian**                    | **id**    |              |                |            |              |              |              |                                     |
+| **Italian**                       | **it**    |              |                |            |              |              |              |                                     |
+| **Japanese**                      | **ja**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.4.0       |                                     |
+| **Korean**                        | **ko**    |              |                |            |              |              |              |                                     |
+| **Malay**                         | **ms**    |              |                |            |              |              |              |                                     |
+| **Polish**                        | **pl**    |              |                |            |              |              |              |                                     |
+| **Portuguese**                    | **pt**    |              |                |            |              |              |              |                                     |
+| **Portuguese (Brazil)**           | **pt-br** |              |                |            |              |              |              |                                     |
+| **Russian**                       | **ru**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.5.4       | Vladimir Lybensky                   |
+| **Spanish**                       | **es**    |              |                |            |              |              |              |                                     |
+| **Swedish**                       | **sv**    |              |                |            |              |              |              |                                     |
+| **Thai**                          | **th**    |              |                |            |              |              |              |                                     |
+| **Turkish**                       | **tr**    |              |                |            | &#10004;     |              |              |                                     |
+|                                   | **Code**  | **Metadata** | **Preference** | **String** | **Category** | **Currency** | **Since**    | **Contributors**                    |
 
 
 ## Supported Currencies
@@ -43,8 +47,8 @@ http://dailycost.com
 | **Swiss Franc**                   | **CHF**   |            | v1.5.4         |
 | **Chilean Peso**                  | **CLP**   |            | v1.5.4         |
 | **Chinese Yuan Renminbi**         | **CNY**   |            | v1.5.4         |
-| **Colombian Peso**                | **COP**   |            | **1.NEXT**     |
-| **Costa Rican Colon**             | **CRC**   |            | **1.NEXT**     |
+| **Colombian Peso**                | **COP**   |            | v1.5.5         |
+| **Costa Rican Colon**             | **CRC**   |            | v1.5.5         |
 | **Czech Koruna**                  | **CZK**   |            | v1.5.4         |
 | **Danish Krone**                  | **DKK**   |            | v1.5.4         |
 | **Egyptian Pound**                | **EGP**   |            | v1.5.4         |
@@ -66,7 +70,7 @@ http://dailycost.com
 | **New Zealand Dollar**            | **NZD**   |            | v1.5.4         |
 | **Philippine Peso**               | **PHP**   |            | v1.5.4         |
 | **Polish Zloty**                  | **PLN**   |            | v1.5.4         |
-| **Romanian New Leu**              | **RON**   |            | **1.NEXT**     |
+| **Romanian New Leu**              | **RON**   |            | v1.5.5         |
 | **Russian Ruble**                 | **RUB**   |            | v1.5.4         |
 | **Saudi Arabian Riyal**           | **SAR**   |            | v1.5.4         |
 | **Swedish Krona**                 | **SEK**   |            | v1.5.4         |
@@ -76,7 +80,7 @@ http://dailycost.com
 | **Taiwan New Dollar**             | **TWD**   |            | v1.5.4         |
 | **Ukrainian Hryvna**              | **UAH**   |            | v1.5.4         |
 | **US Dollar**                     | **USD**   |            | v1.5.4         |
-| **Uruguayan Peso**                | **UYU**   |            | **1.NEXT**     |
+| **Uruguayan Peso**                | **UYU**   |            | v1.5.5         |
 | **Vietnamese Dong**               | **VND**   |            | v1.5.4         |
 | **South African Rand**            | **ZAR**   |            | v1.5.4         |
 |                                   | **Code**  | **Symbol** | **Since**      |
