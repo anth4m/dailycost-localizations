@@ -7,33 +7,34 @@ http://dailycost.com
 
 
 ## Localizations
-|                                   | Code      | Metadata     | Preference     | String     | Category     | Currency     | Since        | Contributors                        |
-|:----------------------------------|:----------|:------------:|:--------------:|:----------:|:------------:|:------------:|:-------------|:------------------------------------|
-| **Arabic (Standard)**             | **ar**    |              |                |            |              |              |              |                                     |
-| **Czech**                         | **cs**    |              |                |            |              |              |              |                                     |
-| **Danish**                        | **da**    |              |                |            |              |              |              |                                     |
-| **Dutch (Standard)**              | **nl**    |              |                |            |              |              |              |                                     |
-| **English (United States)**       | **en-us** | &#10004;     | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.0         | Guopeng Liang                       |
-| **English (United Kingdom)**      | **en-gb** | &#10004;     |                |            |              |              |              |                                     |
-| **Chinese Simplified (PRC)**      | **zh-cn** | &#10004;     | &#10004;       | &#10004;   | &#10004;     |              | v1.1.0       | Guopeng Liang                       |
-| **Chinese Traditional (Taiwan)**  | **zh-tw** |              | &#10004;       | &#10004;   | &#10004;     |              | v1.4.0       | Ken                                 |
-| **French**                        | **fr**    |              |                |            |              |              |              |                                     |
-| **German**                        | **de**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.5.4       | Christian Heeren                    |
-| **Greek**                         | **el**    |              | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       | Efthymis Takos                      |
-| **Indonesian**                    | **id**    |              |                |            |              |              |              |                                     |
-| **Italian**                       | **it**    |              |                |            |              |              |              |                                     |
-| **Japanese**                      | **ja**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.4.0       |                                     |
-| **Korean**                        | **ko**    |              |                |            |              |              |              |                                     |
-| **Malay**                         | **ms**    |              |                |            |              |              |              |                                     |
-| **Polish**                        | **pl**    |              |                |            |              |              |              |                                     |
-| **Portuguese**                    | **pt**    |              |                |            |              |              |              |                                     |
-| **Portuguese (Brazil)**           | **pt-br** |              |                |            |              |              |              |                                     |
-| **Russian**                       | **ru**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.5.4       | Vladimir Lybensky                   |
-| **Spanish**                       | **es**    |              |                |            |              |              |              |                                     |
-| **Swedish**                       | **sv**    |              |                |            |              |              |              |                                     |
-| **Thai**                          | **th**    |              |                |            |              |              |              |                                     |
-| **Turkish**                       | **tr**    |              |                |            | &#10004;     |              |              |                                     |
-|                                   | **Code**  | **Metadata** | **Preference** | **String** | **Category** | **Currency** | **Since**    | **Contributors**                    |
+|                                   | Code      | Metadata     | Preference     | String     | Category     | Currency     | Since        |
+|:----------------------------------|:----------|:------------:|:--------------:|:----------:|:------------:|:------------:|:-------------|
+| **Arabic (Standard)**             | **ar**    |              |                |            |              |              |              |
+| **Czech**                         | **cs**    |              | &#10004;       | &#10004;   | &#10004;     | &#10004;     | **v1.NEXT**  |
+| **Danish**                        | **da**    |              |                |            |              |              |              |
+| **Dutch (Standard)**              | **nl**    |              |                |            |              |              |              |
+| **English (United States)**       | **en-us** | &#10004;     | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.0         |
+| **English (United Kingdom)**      | **en-gb** | &#10004;     |                |            |              |              |              |
+| **Chinese Simplified (PRC)**      | **zh-cn** | &#10004;     | &#10004;       | &#10004;   | &#10004;     |              | v1.1.0       |
+| **Chinese Traditional (Taiwan)**  | **zh-tw** |              | &#10004;       | &#10004;   | &#10004;     |              | v1.4.0       |
+| **French**                        | **fr**    |              |                |            |              |              |              |
+| **German**                        | **de**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.5.4       |
+| **Greek**                         | **el**    |              | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       |
+| **Indonesian**                    | **id**    |              |                |            |              |              |              |
+| **Italian**                       | **it**    |              |                |            |              |              |              |
+| **Japanese**                      | **ja**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.4.0       |
+| **Korean**                        | **ko**    |              |                |            |              |              |              |
+| **Malay**                         | **ms**    |              |                |            |              |              |              |
+| **Norwegian (Bokmål) **           | **nb**    |              | &#10004;       | ALMOST     | &#10004;     |              | **v1.NEXT**  |
+| **Polish**                        | **pl**    |              |                |            |              |              |              |
+| **Portuguese**                    | **pt**    |              |                |            |              |              |              |
+| **Portuguese (Brazil)**           | **pt-br** |              |                |            |              |              |              |
+| **Russian**                       | **ru**    |              | &#10004;       | &#10004;   | &#10004;     |              | v1.5.4       |
+| **Spanish**                       | **es**    |              |                |            |              |              |              |
+| **Swedish**                       | **sv**    |              |                |            |              |              |              |
+| **Thai**                          | **th**    |              |                |            |              |              |              |
+| **Turkish**                       | **tr**    |              |                |            | &#10004;     |              |              |
+|                                   | **Code**  | **Metadata** | **Preference** | **String** | **Category** | **Currency** | **Since**    |
 
 
 ## Supported Currencies
@@ -85,6 +86,15 @@ http://dailycost.com
 | **South African Rand**            | **ZAR**   |            | v1.5.4         |
 |                                   | **Code**  | **Symbol** | **Since**      |
 
+
+## Contributors
+
+* **Chinese Traditional** - Ken
+* **Czeck** - Jiří Málek
+* **German** - Christian Heeren
+* **Greek** - Efthymis Takos
+* **Norwegian (Bokmål)** - larsggu
+* **Russian** - Vladimir Lybensky
 
 ## Currencies Translation Reference
 ...

@@ -1,14 +1,14 @@
 /*
  * DailyCost Localization
  * ----------------------
- * English (United States)
+ * Norwegian (Bokmål)
  *
  */
 
 (function(app) {
   "use strict";
 
-	app.addLanguage("no-nb", {
+	app.addLanguage("nb", {
 
 		preference: {
 			"currency": "NOK".split("_")
@@ -17,11 +17,12 @@
 		string: {
 			"weekdays": "Søndag_Mandag_Tirsdag_Onsdag_Torsdag_Fredag_Lørdag".split("_"),
 			"weekdaysShort": "Søn_Man_Tir_Ons_Tor_Fre_Lør".split("_"),
-			"pullText": "Ny ...|Ny ut...|Ny utg...|Ny utgi...|Ny utgif...|Ny utgift...|Ny utgift!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
-			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
-			"formatSameMonthWeekScope1": '[<strong>]DD[</strong>]',
-			"formatSameMonthWeekScope2": '[<strong>]DD[</strong>]/MM',
+			"pullText": "Ny ...|Ny u...|Ny ut...|Ny utg...|Ny utgi...|Ny utgif...|Ny utgift...|Ny utgift!".split("|"),
+			"formatMetaDate": '[<strong>]MM-DD[</strong>]',
+			"formatWeekScope1": '[<strong>]MM-DD[</strong>]',
+			"formatWeekScope2": '[<strong>]DD[</strong>]',
+			"formatMonthScope": '[<strong>]YYYY-MM[</strong>]',
+			"formatYearScope": '[<strong>]YYYY[</strong>]',
 
 			"settings": "Innstillinger",
 			"preferences": "Valg",
@@ -274,30 +275,7 @@
 			"ZAR": "South African Rand",
 				"ZMW": "Zambian Kwacha",
 				"ZWD": "Zimbabwean Dollar"
-		},
-
-		tips: [
-			{
-				title: 'How to delete an item?',
-				content: ''
-			},
-			{
-				title: 'How do I track incomes?',
-				content: ''
-			},
-			{
-				title: 'How to view the beautiful charts?',
-				content: ''
-			},
-			{
-				title: 'Story behind DailyCost?',
-				content: ''
-			}
-		],
-
-		quotes: [
-			'The future is full of secrets<br />The past can never keep'
-		]
+		}
 	});
 
 }(DAILYCOST || {}));
