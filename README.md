@@ -21,7 +21,7 @@ For each language, the complete localization consists of 5 major parts:
 There are several ways to help:
 
 1. **Translate via GitHub** - Fork this repo, translate locally and make a pull request.
-2. **Translate via Email** - Download **metadata** & **lang** files (use English as the startup), Email the files to me.
+2. **Translate via Email** - Download both **metadata** & **lang** files (use English to startup), translate and Email the files to me.
 3. **Provide Information** - Drop me an Email indicating where I can find useful translation materials for each of the 5 major parts.
 
 If you have any questions, please drop me an Email to **support [at] dailycost [dot] com**
@@ -70,6 +70,7 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 * **Greek** - Efthymis Takos
 * **Norwegian (Bokmål)** - larsggu
 * **Russian** - Vladimir Lybensky
+* **Turkish** - Onur Yasar
 
 
 ## References
