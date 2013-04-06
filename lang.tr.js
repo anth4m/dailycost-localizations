@@ -11,14 +11,16 @@
 	app.addLanguage("tr", {
 
 		preference: {
-			"currency": "TRY".split("_")
+			"currency": "TRY".split("_"),
+			"weekstart": 1
 		},
 
 		string: {
 			"weekdays": "Pazar_Pazartesi_Salı_Çarşamba_Perşembe_Cuma_Cumartesi".split("_"),
 			"weekdaysShort": "Pzr_Pzt_Sal_Çrş_Prş_Cum_Cts".split("_"),
+
 			"pullText": "Yeni ...|Yeni m...|Yeni ma...|Yeni mas...|Yeni masr...|Yeni masra...|Yeni masraf...|Yeni masraf!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
 			"formatMetaDate": '[<strong>]DD[</strong>].MM',
 			"formatWeekScope1": '[<strong>]DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>].MM',
@@ -43,7 +45,7 @@
 			"submit": "Submit",
 			"restore": "Restore",
 			"default": "Default",
-			"weekStart": "Week starts on",
+			"weekstart": "Week starts on",
 
 			"data": "Data",
 			"dataExportCSV": "Export CSV via Email",

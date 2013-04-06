@@ -7,19 +7,21 @@
  */
 
 (function(app) {
-  "use strict";
+	"use strict";
 
 	app.addLanguage("el", {
 
 		preference: {
-			"currency": "EUR".split("_")
+			"currency": "EUR".split("_"),
+			"weekstart": 1
 		},
 
 		string: {
 			"weekdays": "Κυριακή_Δευτέρα_Τρίτη_Τετάρτη_Πέμπτη_Παρασκευή_Σάββατο".split("_"),
 			"weekdaysShort": "Κυρ_Δευ_Τρί_Τετ_Πέμ_Παρ_Σάβ".split("_"),
+
 			"pullText": "Νέο ...|Νέο Έ...|Νέο Έξ...|Νέο Έξο...|Νέο Έξοδ...|Νέο Έξοδο...|Νέο Έξοδο!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
 			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
 			"formatWeekScope1": '[<strong>]DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>]/MM',
@@ -44,7 +46,7 @@
 			"submit": "Υποβολή",
 			"restore": "Επαναφορά",
 			"default": "Αρχικό",
-			"weekStart": "Έναρξη Εβδομάδας",
+			"weekstart": "Έναρξη Εβδομάδας",
 
 			"data": "Δεδομένα",
 			"dataExportCSV": "Εξαγωγή CSV μέσω Email",
@@ -54,6 +56,11 @@
 			"date": "Ημερομηνία",
 			"sum": "Σύνολο",
 			"category": "Κατηγορία",
+
+			"entry": "Καταχώριση",
+			"cost": "Έξοδο",
+			"earn": "Έσοδα",
+			"balance": "Υπόλοιπο",
 
 			"favoriteCurrencies": "Τα Νομίσματά μου",
 			"allCurrencies": "Όλα τα Νομίσματα",

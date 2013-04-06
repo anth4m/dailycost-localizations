@@ -11,14 +11,16 @@
 	app.addLanguage("en-us", {
 
 		preference: {
-			"currency": "USD".split("_")
+			"currency": "USD".split("_"),
+			"weekstart": 0
 		},
 
 		string: {
 			"weekdays": "Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday".split("_"),
 			"weekdaysShort": "Sun_Mon_Tue_Wed_Thu_Fri_Sat".split("_"),
+
 			"pullText": "New ...|New c...|New co...|New cos...|New cost...|New cost!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
 			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
 			"formatWeekScope1": '[<strong>]DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>]/MM',
@@ -43,7 +45,7 @@
 			"submit": "Submit",
 			"restore": "Restore",
 			"default": "Default",
-			"weekStart": "Week starts on",
+			"weekstart": "Week starts on",
 
 			"data": "Data",
 			"dataExportCSV": "Export CSV via Email",
@@ -277,6 +279,7 @@
 				"ZMW": "Zambian Kwacha",
 				"ZWD": "Zimbabwean Dollar"
 		}
+
 	});
 
 }(DAILYCOST || {}));

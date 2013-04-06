@@ -11,15 +11,17 @@
 	app.addLanguage("ru", {
 
 		preference: {
-			"currency": "RUB".split("_")
+			"currency": "RUB".split("_"),
+			"weekstart": 1
 		},
 
 		string: {
 			"weekdays": "Воскресенье_Понедельник_Вторник_Среда_Четверг_Пятница_Суббота".split("_"),
 			"weekdaysShort": "Вск_Пнд_Втр_Срд_Чтв_Птн_Сбт".split("_"),
 			// "weekdaysMin": "Вс_Пн_Вт_Ср_Чт_Пт_Сб".split("_"),
+
 			"pullText": "Новый ...|Новый р...|Новый ра...|Новый рас...|Новый расх...|Новый расхо...|Новый расход...|Новый расход!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
 			"formatMetaDate": '[<strong>]DD[</strong>].MM',
 			"formatWeekScope1": '[<strong>]DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>].MM',
@@ -44,7 +46,7 @@
 			"submit": "Принять",
 			"restore": "Восстановить",
 			"default": "По умолчанию",
-			"weekStart": "Начало недели",
+			"weekstart": "Начало недели",
 
 			"data": "Данные",
 			"dataExportCSV": "Экспорт CSV по Email",
@@ -278,6 +280,7 @@
 				"ZMW": "Zambian Kwacha",
 				"ZWD": "Zimbabwean Dollar"
 		}
+
 	});
 
 }(DAILYCOST || {}));

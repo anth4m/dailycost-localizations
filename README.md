@@ -48,7 +48,7 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 | **Malay**                                         | **ms**    |                                    |                |            |              |              |              |
 | [**Norwegian (Bokmål)**](lang.nb.js)              | **nb**    | MISSING                            | &#10004;       | ALMOST     | &#10004;     | MISSING      | **v1.NEXT**  |
 | **Polish**                                        | **pl**    |                                    |                |            |              |              |              |
-| [**Portuguese**](lang.pt.js)                      | **pt**    |                                    |                |            |              |              |              |
+| [**Portuguese**](lang.pt.js)                      | **pt**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | &#10004;     | **v1.NEXT**  |
 | **Portuguese (Brazil)**                           | **pt-br** |                                    |                |            |              |              |              |
 | [**Russian**](lang.ru.js)                         | **ru**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.5.4       |
 | [**Spanish**](lang.es.js)                         | **es**    |                                    |                |            |              |              |              |
@@ -64,11 +64,14 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 
 ## Contributors
 
+Special thanks to the individuals who contributed to this project as volunteers.
+
 * **Chinese Traditional** - Ken
 * **Czeck** - Jiří Málek
 * **German** - Christian Heeren
 * **Greek** - Efthymis Takos
 * **Norwegian (Bokmål)** - larsggu
+* **Portuguese** - Gonçalo Matos
 * **Russian** - Vladimir Lybensky
 * **Turkish** - Onur Yasar
 

@@ -11,14 +11,16 @@
 	app.addLanguage("zh-tw", {
 
 		preference: {
-			"currency": "TWD".split("_")
+			"currency": "TWD".split("_"),
+			"weekstart": 0
 		},
 
 		string: {
 			"weekdays": "周日_周一_周二_周三_周四_周五_周六".split("_"),
 			"weekdaysShort": "周日_周一_周二_周三_周四_周五_周六".split("_"),
+
 			"pullText": "新增...|新增一...|新增一條...|新增一條開...|新增一條開銷...|新增一條開銷!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
 			"formatMetaDate": '[<strong>]MM.DD[</strong>]',
 			"formatWeekScope1": '[<strong>]MM.DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>]',
@@ -43,7 +45,7 @@
 			"submit": "提交",
 			"restore": "還原",
 			"default": "默認",
-			"weekStart": "每週開始於",
+			"weekstart": "每週開始於",
 
 			"data": "數據",
 			"dataExportCSV": "郵件導出Excel文件(CSV)", // "通過Email導出CSV"

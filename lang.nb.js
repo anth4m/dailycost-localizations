@@ -6,18 +6,21 @@
  */
 
 (function(app) {
-  "use strict";
+	"use strict";
 
 	app.addLanguage("nb", {
 
 		preference: {
-			"currency": "NOK".split("_")
+			"currency": "NOK".split("_"),
+			"weekstart": 1
 		},
 
 		string: {
 			"weekdays": "Søndag_Mandag_Tirsdag_Onsdag_Torsdag_Fredag_Lørdag".split("_"),
 			"weekdaysShort": "Søn_Man_Tir_Ons_Tor_Fre_Lør".split("_"),
+
 			"pullText": "Ny ...|Ny u...|Ny ut...|Ny utg...|Ny utgi...|Ny utgif...|Ny utgift...|Ny utgift!".split("|"),
+
 			"formatMetaDate": '[<strong>]MM-DD[</strong>]',
 			"formatWeekScope1": '[<strong>]MM-DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>]',
@@ -42,7 +45,7 @@
 			"submit": "Send",
 			"restore": "Gjenopprett",
 			"default": "Standard",
-			"weekStart": "Uken starter på",
+			"weekstart": "Uken starter på",
 
 			"data": "Data",
 			"dataExportCSV": "Export CSV via Email",
@@ -276,6 +279,7 @@
 				"ZMW": "Zambian Kwacha",
 				"ZWD": "Zimbabwean Dollar"
 		}
+
 	});
 
 }(DAILYCOST || {}));

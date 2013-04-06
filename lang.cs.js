@@ -11,14 +11,16 @@
 	app.addLanguage("cs", {
 
 		preference: {
-			"currency": "CZK".split("_")
+			"currency": "CZK".split("_"),
+			"weekstart": 1
 		},
 
 		string: {
 			"weekdays": "Neděle_Pondělí_Úterý_Středa_Čtvrtek_Pátek_Sobota".split("_"),
 			"weekdaysShort": "Ne_Po_Út_St_Čt_Pá_So".split("_"),
+
 			"pullText": "Nová ...|Nová n...|Nová ná...|Nová nák...|Nová nákl...|Nová nákla...|Nová náklad...|Nová náklady...|Nová náklady!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
 			"formatMetaDate": '[<strong>]DD[</strong>].MM',
 			"formatWeekScope1": '[<strong>]DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>].MM',
@@ -43,7 +45,7 @@
 			"submit": "Odeslat",
 			"restore": "Obnovit",
 			"default": "Výchozí",
-			"weekStart": "Týden začíná",
+			"weekstart": "Týden začíná",
 
 			"data": "Data",
 			"dataExportCSV": "Exportovat CSV e-mailem",
@@ -107,7 +109,7 @@
 			"transfer":       "Převody"
 		},
 
-		currency: {		
+		currency: {
 			"AED": "Emirátský dirham",
 			"AFN": "Afghánský afghání",
 			"ALL": "Albánský lek",
@@ -277,6 +279,7 @@
 			"ZMW": "Zambijská kwacha",
 			"ZWD": "Zimbabwský dolar"
 		}
+
 	});
 
 }(DAILYCOST || {}));

@@ -11,7 +11,8 @@
 	app.addLanguage("en-gb", {
 
 		preference: {
-			"currency": "GBP_EUR".split("_")
+			"currency": "GBP_EUR".split("_"),
+			"weekstart": 1
 		}
 
 	});

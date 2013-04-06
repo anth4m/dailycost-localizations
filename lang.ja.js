@@ -11,14 +11,16 @@
 	app.addLanguage("ja", {
 
 		preference: {
-			"currency": "JPY".split("_")
+			"currency": "JPY".split("_"),
+			"weekstart": 0
 		},
 
 		string: {
 			"weekdays": "日曜日_月曜日_火曜日_水曜日_木曜日_金曜日_土曜日".split("_"),
 			"weekdaysShort": "日曜_月曜_火曜_水曜_木曜_金曜_土曜".split("_"),
+
 			"pullText": "新規...|新規支...|新規支出...|新規支出を...|新規支出を記...|新規支出を記録...|新規支出を記録!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
 			"formatMetaDate": '[<strong>]MM/DD[</strong>]',
 			"formatWeekScope1": '[<strong>]MM/DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>]',
@@ -43,7 +45,7 @@
 			"submit": "提出",
 			"restore": "戻す",
 			"default": "既定",
-			"weekStart": "週に始まる",
+			"weekstart": "週に始まる",
 
 			"data": "資料",
 			"dataExportCSV": "メールのエクスポートExcel (CSV)", // "エクスポートCSV"

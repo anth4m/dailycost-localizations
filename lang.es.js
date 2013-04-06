@@ -11,14 +11,16 @@
 	app.addLanguage("es", {
 
 		preference: {
-			"currency": "EUR".split("_")
+			"currency": "EUR".split("_"),
+			"weekstart": 1
 		},
 
 		string: {
 			"weekdays": "domingo_lunes_martes_miércoles_jueves_viernes_sábado".split("_"),
 			"weekdaysShort": "dom._lun._mar._mié._jue._vie._sáb.".split("_"),
+
 			"pullText": "New ..._New c..._New co..._New cos..._New cost..._New cost!".split("_"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
 			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
 			"formatWeekScope1": '[<strong>]DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>]/MM',
@@ -43,7 +45,7 @@
 			"submit": "Submit",
 			"restore": "Restore",
 			"default": "Default",
-			"weekStart": "Week starts on",
+			"weekstart": "Week starts on",
 
 			"data": "Data",
 			"dataExportCSV": "Export CSV via Email",

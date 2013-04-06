@@ -11,14 +11,16 @@
 	app.addLanguage("pt", {
 
 		preference: {
-			"currency": "EUR".split("_")
+			"currency": "EUR".split("_"),
+			"weekstart": 1
 		},
 
 		string: {
 			"weekdays": "Domingo_Segunda-feira_Terça-feira_Quarta-feira_Quinta-feira_Sexta-feira_Sábado".split("_"),
 			"weekdaysShort": "Dom_Seg_Ter_Qua_Qui_Sex_Sáb".split("_"),
-			"pullText": "Nova...|Nova d...|Nova de...|Nova des...|Nova desp...|Nova despe...|Nova despes...|Nova despesa...|Nova despesa!".split("|"),
-			// "formatMetaDate": 'MM[<span>]DD[</span>] [<span class="day">]ddd[</span>]',
+
+			"pullText": "Nova ...|Nova d...|Nova de...|Nova des...|Nova desp...|Nova despe...|Nova despes...|Nova despesa...|Nova despesa!".split("|"),
+
 			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
 			"formatWeekScope1": '[<strong>]DD[</strong>]',
 			"formatWeekScope2": '[<strong>]DD[</strong>]/MM',
@@ -35,7 +37,7 @@
 			"sharing": "Partilhar",
 			"currency": "Moeda corrente",
 			"security": "Segurança",
-			"feedback": "Dê-nos o seu feedback",
+			"feedback": "Feedback",
 			"about": "Acerca",
 			"tipsAndTricks": "Dicas",
 			"preview": "Pré-visualizar",
@@ -43,7 +45,7 @@
 			"submit": "Submeter",
 			"restore": "Restaurar",
 			"default": "Pré-definido",
-			"weekStart": "A semana começa",
+			"weekstart": "A semana começa",
 
 			"data": "Informação",
 			"dataExportCSV": "Faça uma cópia de segurança",
@@ -64,7 +66,7 @@
 
 			"emptyCatlist": "Ooops, ainda não há nada aqui",
 
-			"feedbackEmailSubject": "Feedback da aplicação DailyCost",
+			"feedbackEmailSubject": "DailyCost Feedback",
 
 			"rollDays": "Dias",
 			"rollTotal": "Despesas",
@@ -75,7 +77,7 @@
 
 			"ratingsTitle": "Gosta da aplicação DailyCost?",
 			"ratingsDescriptions": "Se gosta desta aplicação, poderia avaliá-la na AppStore? Não tomará muito do seu tempo e contribuirá para a evolução da aplicação.",
-			"ratingsButtons": "Sim, quero avaliar agora!,Lembrem-me mais tarde"
+			"ratingsButtons": "Avaliar agora,Mais tarde"
 		},
 
 		category: {
@@ -94,7 +96,7 @@
 			"social":         "Social",
 			"transport":      "Transportes",
 
-			"appstore":       "AppStore",
+			"appstore":       "App Store",
 			"mobile":         "Telemóvel",
 			"computer":       "Computador",
 			"gifts":          "Presentes",

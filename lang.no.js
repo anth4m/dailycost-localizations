@@ -6,14 +6,15 @@
  */
 
 (function(app) {
-  "use strict";
+	"use strict";
 
 	app.addLanguage("no", {
 
 		base: "nb",
 
 		preference: {
-			"currency": "NOK".split("_")
+			"currency": "NOK".split("_"),
+			"weekstart": 1
 		}
 
 	});
