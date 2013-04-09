@@ -45,7 +45,7 @@
 			"submit": "Enviar",
 			"restore": "Restaurar",
 			"default": "Por defecto",
-			"weekstart": "La semana empieza en",
+			"weekstart": "Semana empieza en",
 
 			"data": "Datos",
 			"dataExportCSV": "Exportar CSV vía Email",
