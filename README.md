@@ -18,11 +18,11 @@ For each language, the complete localization consists of 5 major parts:
 4. **Category** - Names for each category.
 5. **Currency** - Names for each currency (in the Settings - Currency view).
 
-There are several ways to help:
+There are several ways to help, pick one that is convenient for you:
 
 1. **Translate via GitHub** - Fork this repo, translate locally and make a pull request.
 2. **Translate via Email** - Download both **metadata** & **lang** files (use English to startup), translate and Email the files to me.
-3. **Provide Information** - Drop me an Email indicating where I can find useful translation materials for each of the 5 major parts.
+3. **Provide Information** - Drop me an Email indicating where I can find useful translation materials for any of the 5 major parts.
 
 If you have any questions, please drop me an Email to **support [at] dailycost [dot] com**
 
@@ -40,7 +40,7 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 | [**Chinese Traditional (Taiwan)**](lang.zh-tw.js) | **zh-tw** | [&#10004; VIEW](metadata.zh-tw.md) | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.4.0       |
 | **French**                                        | **fr**    |                                    |                |            |              |              |              |
 | [**German**](lang.de.js)                          | **de**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | MISSING      | v1.5.4       |
-| [**Greek**](lang.el.js)                           | **el**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       |
+| [**Greek**](lang.el.js)                           | **el**    | [&#10004; VIEW](metadata.el.md)    | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       |
 | **Indonesian**                                    | **id**    |                                    |                |            |              |              |              |
 | **Italian**                                       | **it**    |                                    |                |            |              |              |              |
 | [**Japanese**](lang.ja.js)                        | **ja**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.4.0       |
