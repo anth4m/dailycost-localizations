@@ -41,7 +41,7 @@
 			"about": "Acerca",
 			"tipsAndTricks": "Dicas",
 			"preview": "Pré-visualizar",
-			"done": "Terminado",
+			"done": "OK",
 			"submit": "Submeter",
 			"restore": "Restaurar",
 			"default": "Pré-definido",
