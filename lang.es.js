@@ -19,7 +19,7 @@
 			"weekdays": "domingo_lunes_martes_miércoles_jueves_viernes_sábado".split("_"),
 			"weekdaysShort": "dom._lun._mar._mié._jue._vie._sáb.".split("_"),
 
-			"pullText": "Nuevo ..._Nuevo g..._Nuevo ga..._Nuevo gas..._Nuevo gast..._Nuevo gasto!".split("_"),
+			"pullText": "Nuevo ...|Nuevo g...|Nuevo ga...|Nuevo gas...|Nuevo gast...|Nuevo gasto...|Nuevo gasto!".split("|"),
 
 			"formatMetaDate": '[<strong>]DD[</strong>]/MM',
 			"formatWeekScope1": '[<strong>]DD[</strong>]',
@@ -56,8 +56,8 @@
 			"sum": "Importe",
 			"category": "Categoría",
 
-			"entry": "Ingresos",
-			"cost": "Gastos",
+			"entry": "Ingreso",
+			"cost": "Gasto",
 			"earn": "Beneficio",
 			"balance": "Balance",
 
@@ -83,9 +83,9 @@
 		category: {
 			"default":        "General",
 			"food":           "Comida",
-			"food-breakfast": "Desayunos",
-			"food-lunch":     "Almuerzos",
-			"food-dinner":    "Cenas",
+			"food-breakfast": "Desayuno",
+			"food-lunch":     "Almuerzo",
+			"food-dinner":    "Cena",
 			"drinks":         "Bebidas",
 			"groceries":      "Comestibles",
 			"shopping":       "Tiendas",
@@ -106,7 +106,7 @@
 			"tickets":        "Entradas",
 			"books":          "Libros",
 			"medical":        "Médico",
-			"transfer":       "Transferencias"
+			"transfer":       "Transferencia"
 		},
 
 		currency: {

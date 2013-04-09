@@ -51,7 +51,7 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 | [**Portuguese**](lang.pt.js)                      | **pt**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | &#10004;     | **v1.NEXT**  |
 | **Portuguese (Brazil)**                           | **pt-br** |                                    |                |            |              |              |              |
 | [**Russian**](lang.ru.js)                         | **ru**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.5.4       |
-| [**Spanish**](lang.es.js)                         | **es**    |                                    |                |            |              |              |              |
+| [**Spanish**](lang.es.js)                         | **es**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | &#10004;     | **v1.NEXT**  |
 | **Swedish**                                       | **sv**    |                                    |                |            |              |              |              |
 | **Thai**                                          | **th**    |                                    |                |            |              |              |              |
 | [**Turkish**](lang.tr.js)                         | **tr**    | MISSING                            | &#10004;       | MISSING    | &#10004;     | MISSING      |              |
@@ -73,6 +73,7 @@ Special thanks to the individuals who contributed to this project as volunteers.
 * **Norwegian (Bokmål)** - larsggu
 * **Portuguese** - Gonçalo Matos
 * **Russian** - Vladimir Lybensky
+* **Spanish** - Juan D Santamaría
 * **Turkish** - Onur Yasar
 
 
