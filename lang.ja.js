@@ -43,7 +43,7 @@
 			"preview": "プレビュー",
 			"done": "完成",
 			"submit": "提出",
-			"restore": "戻す",
+			"restore": "リセット",
 			"default": "既定",
 			"weekstart": "一週始まり",
 
@@ -64,7 +64,7 @@
 			"favoriteCurrencies": "常用の通貨",
 			"allCurrencies": "すべての通貨",
 
-			"emptyCatlist": "ウープス ここには記録はありません",
+			"emptyCatlist": "あら、ここには記録はありません∑(ﾟДﾟ)",
 
 			"feedbackEmailSubject": "DailyCostフィードバック",
 
@@ -82,12 +82,12 @@
 
 		category: {
 			"default":        "一般",
-			"food":           "食物",
+			"food":           "食事",
 			"food-breakfast": "朝食",
 			"food-lunch":     "昼食",
 			"food-dinner":    "夕食",
 			"drinks":         "飲物",
-			"groceries":      "おやつ",
+			"groceries":      "菓子",
 			"shopping":       "買物",
 
 			"personal":       "個人",
