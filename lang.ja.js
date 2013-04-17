@@ -19,7 +19,7 @@
 			"weekdays": "日曜日_月曜日_火曜日_水曜日_木曜日_金曜日_土曜日".split("_"),
 			"weekdaysShort": "日曜_月曜_火曜_水曜_木曜_金曜_土曜".split("_"),
 
-			"pullText": "新規...|新規支...|新規支出...|新規支出を...|新規支出を記...|新規支出を記録...|新規支出を記録!".split("|"),
+			"pullText": "新た...|新たな...|新たな支...|新たな支出...|新たな支出を...|新たな支出を追...|新たな支出を追加...|新たな支出を追加！".split("|"),
 
 			"formatMetaDate": '[<strong>]MM/DD[</strong>]',
 			"formatWeekScope1": '[<strong>]MM/DD[</strong>]',
@@ -28,28 +28,28 @@
 			"formatYearScope": '[<strong>]YYYY[</strong>]',
 
 			"settings": "設定",
-			"preferences": "嗜好",
+			"preferences": "お好み",
 			"categories": "支出種類",
 			"wallpaper": "壁紙",
 			"general": "一般",
 			"accountSettings": "アカウント",
-			"account": "私のアカウント",
+			"account": "マイアカウント",
 			"sharing": "シェアリング",
-			"currency": "貨幣",
-			"security": "機密保護",
-			"feedback": "饋還",
-			"about": "について",
-			"tipsAndTricks": "使用攻略",
-			"preview": "内見",
+			"currency": "通貨",
+			"security": "セキュリティ",
+			"feedback": "フィードバック",
+			"about": "情報",
+			"tipsAndTricks": "ヒント",
+			"preview": "プレビュー",
 			"done": "完成",
 			"submit": "提出",
 			"restore": "戻す",
 			"default": "既定",
-			"weekstart": "週に始まる",
+			"weekstart": "一週始まり",
 
-			"data": "資料",
-			"dataExportCSV": "メールのエクスポートExcel (CSV)", // "エクスポートCSV"
-			"dataExportEmailSubject": "DailyCost資料のバックアップ",
+			"data": "データ",
+			"dataExportCSV": "メールでエクスポート(Excel CSV)", // "エクスポートCSV"
+			"dataExportEmailSubject": "DailyCostデータのバックアップ",
 			"dataExportEmailBody": "Keep it simple and elegant.",
 
 			"date": "日付",
@@ -61,23 +61,23 @@
 			"earn": "収入",
 			"balance": "総計",
 
-			"favoriteCurrencies": "一般の貨幣",
-			"allCurrencies": "全部の貨幣",
+			"favoriteCurrencies": "常用の通貨",
+			"allCurrencies": "すべての通貨",
 
-			"emptyCatlist": "ウープス ここには記録もありません",
+			"emptyCatlist": "ウープス ここには記録はありません",
 
-			"feedbackEmailSubject": "DailyCost饋還",
+			"feedbackEmailSubject": "DailyCostフィードバック",
 
-			"rollDays": "日",
+			"rollDays": "日数",
 			"rollTotal": "支出",
 			"rollTotalSum": "総計",
 
-			"note": "付記",
-			"createdOn": "時間",
+			"note": "注釈",
+			"createdOn": "記録時間",
 
-			"ratingsTitle": "評価DailyCost",
-			"ratingsDescriptions": "あなたはDailyCostを使用して楽しむ場合は、それを評価する瞬間を取っていただけませんか？それは数分以上かかることはありません。ご支援いただきありがとうございます！",
-			"ratingsButtons": "評価し,後ほど"
+			"ratingsTitle": "DailyCostの評価",
+			"ratingsDescriptions": "もしDailyCostが好きなら、今すぐ評価してください！貴方の意見と提案があれば、このソフトはもっと素敵になります。",
+			"ratingsButtons": "今すぐ評価,後で"
 		},
 
 		category: {
@@ -86,27 +86,27 @@
 			"food-breakfast": "朝食",
 			"food-lunch":     "昼食",
 			"food-dinner":    "夕食",
-			"drinks":         "飲料",
-			"groceries":      "乾物",
+			"drinks":         "飲物",
+			"groceries":      "おやつ",
 			"shopping":       "買物",
 
 			"personal":       "個人",
-			"entertain":      "遊び",
+			"entertain":      "娯楽",
 			"movies":         "映画",
 			"social":         "社交",
-			"transport":      "輸送",
+			"transport":      "交通",
 
 			"appstore":       "App Store",
 			"mobile":         "電話",
-			"computer":       "計算機",
-			"gifts":          "寄贈",
+			"computer":       "パソコン",
+			"gifts":          "プレゼント",
 			"housing":        "住宅",
 
 			"travel":         "旅行",
-			"tickets":        "券",
-			"books":          "図書",
+			"tickets":        "チケット",
+			"books":          "本",
 			"medical":        "医療",
-			"transfer":       '為替'
+			"transfer":       '振込'
 		},
 
 		currency: {
