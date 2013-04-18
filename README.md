@@ -42,7 +42,7 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 | [**German**](lang.de.js)                          | **de**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | MISSING      | v1.5.4       |
 | [**Greek**](lang.el.js)                           | **el**    | [&#10004; VIEW](metadata.el.md)    | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       |
 | **Indonesian**                                    | **id**    |                                    |                |            |              |              |              |
-| **Italian**                                       | **it**    |                                    |                |            |              |              |              |
+| [**Italian**](lang.it.js)                         | **it**    | [&#10004; VIEW](metadata.it.md)    | &#10004;       | &#10004;   | &#10004;     | &#10004;     | **v1.NEXT**  |
 | [**Japanese**](lang.ja.js)                        | **ja**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.4.0       |
 | **Korean**                                        | **ko**    |                                    |                |            |              |              |              |
 | **Malay**                                         | **ms**    |                                    |                |            |              |              |              |
@@ -70,6 +70,7 @@ Special thanks to the individuals who contributed to this project as volunteers.
 * **Czeck** - Jiří Málek
 * **German** - Christian Heeren
 * **Greek** - Efthymis Takos
+* **Italian** - Filippo Bonanno
 * **Norwegian (Bokmål)** - larsggu
 * **Portuguese** - Gonçalo Matos
 * **Russian** - Vladimir Lybensky
