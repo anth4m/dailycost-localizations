@@ -1,4 +1,4 @@
-DailyCost
+DailyCost – Simple, Elegant and Intuitive Expense Tracker to Organize Your Daily Finance
 
 --------------------------------------------------------------------------------
 
