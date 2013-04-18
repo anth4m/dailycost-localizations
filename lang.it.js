@@ -87,7 +87,7 @@
 			"food-lunch":     "Pranzo",
 			"food-dinner":    "Cena",
 			"drinks":         "Bevande",
-			"groceries":      "Rrogheria", // Generi alimentari
+			"groceries":      "Drogheria", // Generi alimentari
 			"shopping":       "Acquisti",
 
 			"personal":       "Personale",
