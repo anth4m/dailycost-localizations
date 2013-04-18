@@ -71,6 +71,7 @@ Special thanks to the individuals who contributed to this project as volunteers.
 * **German** - Christian Heeren
 * **Greek** - Efthymis Takos
 * **Italian** - Filippo Bonanno
+* **Japanese** - Yi Chen, Jiejing Yu
 * **Norwegian (Bokmål)** - larsggu
 * **Portuguese** - Gonçalo Matos
 * **Russian** - Vladimir Lybensky
