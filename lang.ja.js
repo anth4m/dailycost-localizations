@@ -32,7 +32,7 @@
 			"categories": "支出種類",
 			"wallpaper": "壁紙",
 			"general": "一般",
-			"accountSettings": "アカウント",
+			"accountSettings": "アカウントセッティング",
 			"account": "マイアカウント",
 			"sharing": "シェアリング",
 			"currency": "通貨",
@@ -87,7 +87,7 @@
 			"food-lunch":     "昼食",
 			"food-dinner":    "夕食",
 			"drinks":         "飲物",
-			"groceries":      "菓子",
+			"groceries":      "雑貨",
 			"shopping":       "買物",
 
 			"personal":       "個人",
@@ -97,9 +97,9 @@
 			"transport":      "交通",
 
 			"appstore":       "App Store",
-			"mobile":         "電話",
-			"computer":       "パソコン",
-			"gifts":          "プレゼント",
+			"mobile":         "携帯",
+			"computer":       "コンピュータ",
+			"gifts":          "贈物",
 			"housing":        "住宅",
 
 			"travel":         "旅行",
