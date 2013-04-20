@@ -44,14 +44,14 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 | [**Greek**](lang.el.js)                           | **el**    | [&#10004; VIEW](metadata.el.md)    | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       |
 | **Indonesian**                                    | **id**    |                                    |                |            |              |              |              |
 | [**Italian**](lang.it.js)                         | **it**    | [&#10004; VIEW](metadata.it.md)    | &#10004;       | &#10004;   | &#10004;     | &#10004;     | **v1.NEXT**  |
-| [**Japanese**](lang.ja.js)                        | **ja**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.4.0       |
+| [**Japanese**](lang.ja.js)                        | **ja**    | [&#10004; VIEW](metadata.ja.md)    | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.4.0       |
 | **Korean**                                        | **ko**    |                                    |                |            |              |              |              |
 | **Malay**                                         | **ms**    |                                    |                |            |              |              |              |
 | [**Norwegian (Bokmål)**](lang.nb.js)              | **nb**    | MISSING                            | &#10004;       | ALMOST     | &#10004;     | MISSING      | **v1.NEXT**  |
 | **Polish**                                        | **pl**    |                                    |                |            |              |              |              |
 | [**Portuguese**](lang.pt.js)                      | **pt**    | [&#10004; VIEW](metadata.pt.md)    | &#10004;       | &#10004;   | &#10004;     | &#10004;     | **v1.NEXT**  |
 | **Portuguese (Brazil)**                           | **pt-br** |                                    |                |            |              |              |              |
-| [**Russian**](lang.ru.js)                         | **ru**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.5.4       |
+| [**Russian**](lang.ru.js)                         | **ru**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       |
 | [**Spanish**](lang.es.js)                         | **es**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | &#10004;     | **v1.NEXT**  |
 | **Swedish**                                       | **sv**    |                                    |                |            |              |              |              |
 | **Thai**                                          | **th**    |                                    |                |            |              |              |              |
