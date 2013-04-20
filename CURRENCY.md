@@ -4,6 +4,7 @@
 | **Emirati Dirham**                | **AED**   |            | v1.5.4         |
 | **Argentine Peso**                | **ARS**   |            | v1.5.4         |
 | **Australian Dollar**             | **AUD**   |            | v1.5.4         |
+| **Bulgarian Lev**                 | **BGN**   |            | **v1.NEXT**    |
 | **Brazilian Real**                | **BRL**   |            | v1.5.4         |
 | **Canadian Dollar**               | **CAD**   |            | v1.5.4         |
 | **Swiss Franc**                   | **CHF**   |            | v1.5.4         |
@@ -16,14 +17,20 @@
 | **Egyptian Pound**                | **EGP**   |            | v1.5.4         |
 | **Euro**                          | **EUR**   |            | v1.5.4         |
 | **British Pound**                 | **GBP**   |            | v1.5.4         |
+| **Ghanaian Cedi**                 | **GHS**   |            | **v1.NEXT**    |
 | **Hong Kong Dollar**              | **HKD**   |            | v1.5.4         |
+| **Croatian Kuna**                 | **HRK**   |            | **v1.NEXT**    |
 | **Hungarian Forint**              | **HUF**   |            | v1.5.4         |
 | **Indonesian Rupiah**             | **IDR**   |            | v1.5.4         |
 | **Israeli New Shekel**            | **ILS**   |            | v1.5.4         |
 | **Indian Rupee**                  | **INR**   |            | v1.5.4         |
+| **Icelandic Krona**               | **ISK**   |            | **v1.NEXT**    |
 | **Japanese Yen**                  | **JPY**   |            | v1.5.4         |
+| **Kenyan Shilling**               | **KES**   |            | **v1.NEXT**    |
 | **South Korean Won**              | **KRW**   |            | v1.5.4         |
 | **Lao or Laotian Kip**            | **LAK**   |            | v1.5.4         |
+| **Sri Lankan Rupee**              | **LKR**   |            | **v1.NEXT**    |
+| **Lithuanian Litas**              | **LTL**   |            | **v1.NEXT**    |
 | **Mongolian Tughrik**             | **MNT**   |            | v1.5.4         |
 | **Mexican Peso**                  | **MXN**   |            | v1.5.4         |
 | **Malaysian Ringgit**             | **MYR**   |            | v1.5.4         |
