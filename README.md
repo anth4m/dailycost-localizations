@@ -36,8 +36,8 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 | **Dutch (Standard)**                              | **nl**    |                                    |                |            |              |              |              |
 | [**English (United States)**](lang.en-us.js)      | **en-us** | [&#10004; VIEW](metadata.en-us.md) | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.0         |
 | [**English (United Kingdom)**](lang.en.gb.js)     | **en-gb** |                                    |                |            |              |              |              |
-| [**Chinese Simplified (PRC)**](lang.zh-cn.js)     | **zh-cn** | [&#10004; VIEW](metadata.zh-cn.md) | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.1.0       |
-| [**Chinese Traditional (Taiwan)**](lang.zh-tw.js) | **zh-tw** | [&#10004; VIEW](metadata.zh-tw.md) | &#10004;       | &#10004;   | &#10004;     | ALMOST       | v1.4.0       |
+| [**Chinese Simplified (PRC)**](lang.zh-cn.js)     | **zh-cn** | [&#10004; VIEW](metadata.zh-cn.md) | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.1.0       |
+| [**Chinese Traditional (Taiwan)**](lang.zh-tw.js) | **zh-tw** | [&#10004; VIEW](metadata.zh-tw.md) | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.4.0       |
 | **French**                                        | **fr**    |                                    |                |            |              |              |              |
 | [**German**](lang.de.js)                          | **de**    | MISSING                            | &#10004;       | &#10004;   | &#10004;     | MISSING      | v1.5.4       |
 | [**Greek**](lang.el.js)                           | **el**    | [&#10004; VIEW](metadata.el.md)    | &#10004;       | &#10004;   | &#10004;     | &#10004;     | v1.5.4       |
