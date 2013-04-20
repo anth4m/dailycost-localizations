@@ -28,6 +28,7 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 
 
 ## Languages
+
 |                                                   | Code      | Metadata                           | Preference     | String     | Category     | Currency     | Since        |
 |:--------------------------------------------------|:----------|:----------------------------------:|:--------------:|:----------:|:------------:|:------------:|:-------------|
 | **Arabic (Standard)**                             | **ar**    |                                    |                |            |              |              |              |
@@ -59,6 +60,7 @@ If you have any questions, please drop me an Email to **support [at] dailycost [
 
 
 ## Currencies
+
 [Supported Currencies](CURRENCY.md)
 
 

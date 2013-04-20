@@ -120,6 +120,7 @@
 			"AUD": "Australský dolar",
 			"AWG": "Arubský florin",
 			"AZN": "Ázerbájdžánský manat",
+
 			"BAM": "Konvertibilní marka",
 			"BBD": "Barbadoský dolar",
 			"BDT": "Bangladéšská taka",
@@ -135,6 +136,7 @@
 			"BWP": "Botswanská pula",
 			"BYR": "Běloruský rubl",
 			"BZD": "Belizský dolar",
+
 			"CAD": "Kanadský dolar",
 			"CDF": "Konžský frank",
 			"CHF": "Švýcarský frank",
@@ -146,16 +148,20 @@
 			"CUP": "Kubánské peso",
 			"CVE": "Kapverdské escudo",
 			"CZK": "Česká koruna",
+
 			"DJF": "Džibutský frank",
 			"DKK": "Dánská koruna",
 			"DOP": "Dominikánské peso",
 			"DZD": "Alžírský dinár",
+
 			"EGP": "Egyptská libra",
 			"ERN": "Eritrejská nakfa",
 			"ETB": "Etiopský birr",
 			"EUR": "Euro",
+
 			"FJD": "Fidžijský dolar",
 			"FKP": "Falklandská libra",
+
 			"GBP": "Libra šterlinků",
 			"GEL": "Gruzínské lari",
 			"GGP": "Guernseyská libra",
@@ -165,11 +171,13 @@
 			"GNF": "Guinejský frank",
 			"GTQ": "Guatemalský quetzal",
 			"GYD": "Guyanský dolar",
+
 			"HKD": "Hongkongský dolar",
 			"HNL": "Honduraská lempira",
 			"HRK": "Chorvatská kuna",
 			"HTG": "Haitský gourde",
 			"HUF": "Maďarský forint",
+
 			"IDR": "Indonéská rupie",
 			"ILS": "Izraelský šekel",
 			"IMP": "Manská libra",
@@ -177,10 +185,12 @@
 			"IQD": "Irácký dinár",
 			"IRR": "Íránský rial",
 			"ISK": "Islandská koruna",
+
 			"JEP": "Jerseyská libra",
 			"JMD": "Jamajský dolar",
 			"JOD": "Jordánský dinár",
 			"JPY": "Japonský jen",
+
 			"KES": "Keňský šilink",
 			"KGS": "Kyrgyzský som",
 			"KHR": "Kambodžský riel",
@@ -190,6 +200,7 @@
 			"KWD": "Kuvajtský dinár",
 			"KYD": "Dolar Kajmanských ostrovů",
 			"KZT": "Kazašské tenge",
+
 			"LAK": "Laoský kip",
 			"LBP": "Libanonská libra",
 			"LKR": "Šrílanská rupie",
@@ -198,6 +209,7 @@
 			"LTL": "Litevský litas",
 			"LVL": "Lotyšský lat",
 			"LYD": "Libyjský dinár",
+
 			"MAD": "Marocký dirham",
 			"MDL": "Moldavské leu",
 			"MGA": "Malgašský ariary",
@@ -212,13 +224,16 @@
 			"MXN": "Mexické peso",
 			"MYR": "Malajsijský ringgit",
 			"MZN": "Mosambický metical",
+
 			"NAD": "Namibijský dolar",
 			"NGN": "Nigerijská naira",
 			"NIO": "Nikaragujská córdoba",
 			"NOK": "Norská koruna",
 			"NPR": "Nepálská rupie",
 			"NZD": "Novozélandský dolar",
+
 			"OMR": "Ománský rial",
+
 			"PAB": "Panamská balboa",
 			"PEN": "Peruánský nuevo sol",
 			"PGK": "Papujsko-guinejská kina",
@@ -226,11 +241,14 @@
 			"PKR": "Pákistánská rupie",
 			"PLN": "Polský złoty",
 			"PYG": "Paraguayský guaraní",
+
 			"QAR": "Katarský rial",
+
 			"RON": "Rumunské leu",
 			"RSD": "Srbský dinár",
 			"RUB": "Ruský rubl",
 			"RWF": "Rwandský frank",
+
 			"SAR": "Saúdský rial",
 			"SBD": "Šalamounský dolar",
 			"SCR": "Seychelská rupie",
@@ -246,6 +264,7 @@
 			"SVC": "Salvádorský colón",
 			"SYP": "Syrská libra",
 			"SZL": "Svazijský lilangeni",
+
 			"THB": "Thajský baht",
 			"TJS": "Tádžický somoni",
 			"TMT": "Turkmenský manat",
@@ -256,15 +275,19 @@
 			"TVD": "Tuvalský dolar",
 			"TWD": "Tchajwanský dolar",
 			"TZS": "Tanzanský šilink",
+
 			"UAH": "Ukrajinská hřivna",
 			"UGX": "Ugandský šilink",
 			"USD": "Americký dolar",
 			"UYU": "Uruguayské peso",
 			"UZS": "Uzbecký som",
+
 			"VEF": "Venezuelský bolívar",
 			"VND": "Vietnamský dong",
 			"VUV": "Vanuatský vatu",
+
 			"WST": "Samojská tala",
+
 			"XAF": "CFA frank",
 			"XAG": "Troyská unce stříbra",
 			"XAU": "Troyská unce zlata",
@@ -274,7 +297,9 @@
 			"XPD": "Troyská unce paladia",
 			"XPF": "CFP frank",
 			"XPT": "Troyská unce platiny",
+
 			"YER": "Jemenský rial",
+
 			"ZAR": "Jihoafrický rand",
 			"ZMW": "Zambijská kwacha",
 			"ZWD": "Zimbabwský dolar"
